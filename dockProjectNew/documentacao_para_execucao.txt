@@ -1,0 +1,23 @@
+
+Meu projeto foi composto por APIs Rest escritas com o framework djangorestframework==3.11.0, utilizando como repositório SQLite.
+
+######## Features do produto
+
+#### path que realiza a criação de uma conta.
+##### http://127.0.0.1:8000/contas/ <POST
+
+#### path que realiza o bloqueio de uma conta.
+##### http://127.0.0.1:8000/contas/ <PUT
+
+#### path que realiza operação de depósito em uma conta.
+##### http://127.0.0.1:8000/transacoes/ < POST
+
+#### path que realiza operação de consulta de saldo em determinada conta.
+##### http://127.0.0.1:8000/contas/<idConta>/ <GET
+
+#### path que recupera o extrato de transações detalhadas, tabela completa.
+##### http://127.0.0.1:8000/transacoes/ < GET
+
+Instalação
+
+1. 
