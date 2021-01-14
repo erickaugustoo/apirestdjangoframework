@@ -20,7 +20,7 @@ Meu projeto foi composto por APIs Rest escritas com o framework djangorestframew
 
 Instalação
 
-1. Instalar a extensão SQLite
+1. Instalar a extensão SQLite do vscode
 
 2. Realizar o clone do meu projeto https://github.com/erickaugustoo/apirestdjangoframework/
 
