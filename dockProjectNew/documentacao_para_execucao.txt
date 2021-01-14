@@ -20,4 +20,14 @@ Meu projeto foi composto por APIs Rest escritas com o framework djangorestframew
 
 Instalação
 
-1. 
+1. Instalar a extensão SQLite
+
+2. Realizar o clone do meu projeto https://github.com/erickaugustoo/apirestdjangoframework/
+
+3. Iniciar o ambiente virtual com o comando python -m venv venv ./venv/Scripts/Activate
+
+4. Realizar o comando em /dockProjectNew > pip install django djangorestframework
+
+5. Realizar o comando em /dockProjectNew > pip install django django.db
+
+6. Realizar o comando python manage.py runserver
